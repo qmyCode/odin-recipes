@@ -1,1 +1,1 @@
-# odin-recipes
+latihan sendiri untuk membuat repo di github 
